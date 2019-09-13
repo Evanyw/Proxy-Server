@@ -1,6 +1,5 @@
-UNI: yx2504
 Proxy Server
-1. IP address: 192.168.1.6
+1. IP address: xxx.xxx.xxx.xxx
    port number: 8888
 
 2. Data structure of caching
